@@ -60,13 +60,9 @@ The EXE is packaged from PowerShell code using [PS2EXE](https://github.com/MScho
 
 NetLagov changes Windows network settings, adapter properties, and selected system options. Some actions can briefly interrupt connectivity, reset custom firewall rules, or affect individual apps. A performance improvement is not guaranteed. Read the action description before applying it. You can create a restore point before applying a group of settings. Record your original DNS and adapter values so you can restore them manually if needed.
 
-## Version and updates
-
-This page describes **2.3.3 Final**, the current working version and the starting point for the project history here. There is no verified changelog for earlier releases yet. Future entries should include only confirmed changes and dates.
-
 ## License
 
-The 2.3.3 package does not include a license file, and project reuse and redistribution terms have not been stated. No open-source license has been selected for the project.
+NetLagov is distributed under the GNU GPL, version 3 or (at your option) any later version. You may use, modify, and redistribute the program, including for a fee. When distributing the program or a modified version, you must comply with the GPL terms, including providing recipients with the corresponding source code. See the [LICENSE](LICENSE) file for the full text.
 
 ## Files
 
@@ -82,6 +78,7 @@ The 2.3.3 package does not include a license file, and project reuse and redistr
 - **Make_EXE_PS5.ps1** — the EXE build script. It installs the ps2exe module from PowerShell Gallery if needed.
 - **NetLagov.ico** — the icon used to build the EXE.
 - **README.md** and **README.en.md** — the Russian and English project pages.
+- **LICENSE** — the terms for using, modifying, and distributing NetLagov under GNU GPL 3.0-or-later.
 - **images/** — page screenshots; they are not needed to run the app.
 
 The EXE is built with [PS2EXE](https://github.com/MScholtes/PS2EXE).
