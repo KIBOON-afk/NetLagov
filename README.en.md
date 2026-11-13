@@ -48,7 +48,7 @@ These images show version 2.3.3. Diagnostic values depend on the network and are
 
 > **First launch:** wait for NetLagov to finish its startup diagnostics before applying settings. It checks access to external hosts and DNS; the time required depends on your network.
 
-1. The current version is **2.3.3 Final**, file **NetLagov_PS5_v2_3_3_final.exe**. A GitHub Releases link will be added once the repository and release are published. This draft does not yet have a public download link.
+1. The current version is **2.3.3 Final**, file **NetLagov_PS5_v2_3_3_final.exe**. Download [NetLagov_PS5_v2_3_3_final.exe](https://github.com/KIBOON-afk/NetLagov/raw/refs/heads/main/NetLagov_PS5_v2_3_3_final.exe).
 2. Open the EXE and approve the Windows administrator prompt. Administrator rights are required to change system network settings.
 3. After diagnostics finish, choose the tab and action you need.
 
