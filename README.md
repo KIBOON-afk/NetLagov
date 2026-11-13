@@ -48,7 +48,7 @@ NetLagov начинался как небольшой PowerShell-скрипт д
 
 > **Первый запуск:** дождитесь окончания стартовой диагностики NetLagov и только после этого начинайте применять настройки. Программа проверяет доступность внешних адресов и DNS; время проверки зависит от сети.
 
-1. Текущая версия — **2.3.3 Final**, файл **NetLagov_PS5_v2_3_3_final.exe**. [Скачать NetLagov_PS5_v2_3_3_final.exe](https://github.com/KIBOON-afk/NetLagov/raw/refs/heads/main/NetLagov_PS5_v2_3_3_final.exe).
+1. Текущая версия — **2.3.3 Final**, файл **NetLagov_PS5_v2_3_3_final.exe**. [Скачать NetLagov_PS5_v2_3_3_final.exe](https://github.com/KIBOON-afk/NetLagov/releases/download/v2.3.3/NetLagov_PS5_v2_3_3_final.exe).
 2. Откройте EXE и подтвердите запрос Windows на права администратора. Они необходимы для изменения системных сетевых настроек.
 3. После диагностики выберите нужную вкладку и действие.
 
